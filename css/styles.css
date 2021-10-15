@@ -8,22 +8,24 @@
   border: 5px solid #f52d5cdb;
   padding: 5px;
   background-color: #83d4f2;
-  width: 50%;
+  width: 30%;
   border-width: 30px;
   margin-top: 20px;
   display: block;
   box-sizing:border-box
+  float: center;
 }
 
 .img {
   border: 20px solid rgb(0, 0, 0);
   max-width: 100%;
-  height: 200px;
+  height: 300px;
   float: center;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width; 50%;
+  width: 15%;
+  float:center;
 }
 
 .box {
@@ -51,6 +53,7 @@
   text-align: center;
   font-family:Georgia, 'Times New Roman', Times, serif;
   color: navy;
+  text-align: center;
 }
 
 .style {
