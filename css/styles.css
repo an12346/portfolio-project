@@ -5,32 +5,53 @@
 }
 
 .welcome {
-  color:lightcoral;
+  color: #FF0099;
 }
 
 .projects {
-  color: rgb(188, 145, 237);
+  color: #9D00ff;
 }
 
 .about {
-  color:rgb(122, 240, 209);
+  color: lightgreen;
 }
 
 .hobbies {
-  color:thistle
+  color: #ffff00;
 }
 
 .webpage {
   margin: 10px;
-  border: solid plum;
+  border: solid #ffff00;
   padding: 5px;
-  background-color: rgb(188, 145, 237);
+  background-color: #9D00ff;
   width: 50%;
   border-width: 20px;
 }
 
 .img {
-  border: 20px solid lightcoral;
+  border: 20px solid #FF0099;
   max-width: 100%;
   height: 300px;
 }
+
+.box {
+  margin: 10px;
+  border: solid rgb(188, 145, 237);
+  padding: 5px;
+  background-color: lightgreen;
+  width: 50%;
+  border-width: 20px;
+  border-style: solid;
+}
+
+.test {
+  margin: 10px;
+  border: solid rgb(122, 240, 209);
+  padding: 5px;
+  background-color:thistle;
+  width: 50%;
+  border-width: 20px;
+  border-style: solid;
+}
+
