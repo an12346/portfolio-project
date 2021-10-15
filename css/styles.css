@@ -5,9 +5,9 @@
 
 .webpage {
   margin: auto;
-  border: 5px solid #acffd9;
+  border: 5px solid #f52d5cdb;
   padding: 5px;
-  background-color: #C5ACE5;
+  background-color: #83d4f2;
   width: 50%;
   border-width: 30px;
   margin-top: 20px;
@@ -28,9 +28,9 @@
 
 .box {
   margin: auto;
-  border: 5px solid #acffd9;
+  border: 5px solid #f52d5cdb;
   padding: 5px;
-  background-color: #C5ACE5;
+  background-color: #83d4f2;
   width: 50%;
   border-width: 30px;
   border-style: solid;
@@ -38,9 +38,9 @@
 
 .hobby {
   margin: auto;
-  border: 5px solid #acffd9;
+  border: 5px solid #f52d5cdb;
   padding: 5px;
-  background-color:#C5ACE5;
+  background-color:#83d4f2;
   width: 50%;
   border-width: 20px;
   border-style: solid;
@@ -50,7 +50,7 @@
 .page {
   text-align: center;
   font-family:Georgia, 'Times New Roman', Times, serif;
-  color: #C5ACE5;
+  color: navy;
 }
 
 .style {
