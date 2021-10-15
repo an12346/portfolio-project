@@ -1,13 +1,11 @@
-.portfolio {
-  color: lightcoral;
-}
+
 
 .title {
   text-decoration:underline;
 }
 
 .welcome {
-  color: plum;
+  color:lightcoral;
 }
 
 .projects {
@@ -28,5 +26,11 @@
   padding: 5px;
   background-color: rgb(188, 145, 237);
   width: 50%;
-  border-width: 50px;
+  border-width: 20px;
+}
+
+.img {
+  border: 20px solid lightcoral;
+  max-width: 100%;
+  height: 300px;
 }
