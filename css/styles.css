@@ -1,57 +1,69 @@
-
-
 .title {
   text-decoration:underline;
+  text-align: center;
 }
 
 .welcome {
-  color: #FF0099;
+  color: #FEC8D8;
 }
 
 .projects {
-  color: #9D00ff;
+  color: #D291BC;
 }
 
 .about {
-  color: lightgreen;
+  color: #D291BC;
 }
 
 .hobbies {
-  color: #ffff00;
+  color: #D291BC;
 }
 
 .webpage {
   margin: 10px;
-  border: solid #ffff00;
+  border: solid #D291BC;
   padding: 5px;
-  background-color: #9D00ff;
+  background-color: #FEC8D8;
   width: 50%;
   border-width: 20px;
+  float: right;
 }
 
 .img {
-  border: 20px solid #FF0099;
+  border: 20px solid #FEC8D8;
   max-width: 100%;
   height: 300px;
+  float: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width; 50%;
 }
 
 .box {
   margin: 10px;
-  border: solid rgb(188, 145, 237);
+  border: solid #D291BC;
   padding: 5px;
-  background-color: lightgreen;
+  background-color: #FEC8D8;
   width: 50%;
   border-width: 20px;
   border-style: solid;
 }
 
-.test {
+.hobby {
   margin: 10px;
-  border: solid rgb(122, 240, 209);
+  border: solid #D291BC;
   padding: 5px;
-  background-color:thistle;
+  background-color:#FEC8D8;
   width: 50%;
   border-width: 20px;
   border-style: solid;
 }
 
+.page {
+  text-align: center;
+}
+
+.right {
+  text-align: center;
+}
