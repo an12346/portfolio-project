@@ -3,27 +3,11 @@
   text-align: center;
 }
 
-.welcome {
-  color: #FEC8D8;
-}
-
-.projects {
-  color: #D291BC;
-}
-
-.about {
-  color: #D291BC;
-}
-
-.hobbies {
-  color: #D291BC;
-}
-
 .webpage {
   margin: auto;
-  border: 5px solid #D291BC;
+  border: 5px solid #acffd9;
   padding: 5px;
-  background-color: #FEC8D8;
+  background-color: #C5ACE5;
   width: 50%;
   border-width: 30px;
   margin-top: 20px;
@@ -32,7 +16,7 @@
 }
 
 .img {
-  border: 20px solid #FEC8D8;
+  border: 20px solid rgb(0, 0, 0);
   max-width: 100%;
   height: 200px;
   float: center;
@@ -44,9 +28,9 @@
 
 .box {
   margin: auto;
-  border: 5px solid #D291BC;
+  border: 5px solid #acffd9;
   padding: 5px;
-  background-color: #FEC8D8;
+  background-color: #C5ACE5;
   width: 50%;
   border-width: 30px;
   border-style: solid;
@@ -54,9 +38,9 @@
 
 .hobby {
   margin: auto;
-  border: 5px solid #D291BC;
+  border: 5px solid #acffd9;
   padding: 5px;
-  background-color:#FEC8D8;
+  background-color:#C5ACE5;
   width: 50%;
   border-width: 20px;
   border-style: solid;
@@ -65,7 +49,12 @@
 
 .page {
   text-align: center;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  color: #C5ACE5;
 }
 
+.style {
+  font-style: oblique;
+}
 
 
