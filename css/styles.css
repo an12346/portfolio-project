@@ -11,5 +11,22 @@
 }
 
 .projects {
-  color: lightgreen;
+  color: rgb(188, 145, 237);
+}
+
+.about {
+  color:rgb(122, 240, 209);
+}
+
+.hobbies {
+  color:thistle
+}
+
+.webpage {
+  margin: 10px;
+  border: solid plum;
+  padding: 5px;
+  background-color: rgb(188, 145, 237);
+  width: 50%;
+  border-width: 50px;
 }
