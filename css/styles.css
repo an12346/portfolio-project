@@ -12,7 +12,7 @@
   border-width: 30px;
   margin-top: 20px;
   display: block;
-  box-sizing:border-box
+  box-sizing:border-box;
   float: center;
 }
 
@@ -24,7 +24,7 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 15%;
+  width: auto;
   float: center;
 }
 
