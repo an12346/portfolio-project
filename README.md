@@ -21,7 +21,7 @@ This is a landing page I created to display my portfolio. My portfolio includes 
 If you run into any issues with the code, you can contact me by email:
 [Contact Me](mailto:annaepittman@gmail.com)
 
-[GitHub Repository](https://github.com/an12346/portfolio-project)
+[GitHub Repository](https://an12346.github.io/portfolio-project/)
 
 [MIT](https://opensource.org/licenses/MIT)
 
